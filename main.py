@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 import os
 
-# replit --> https://replit.com/@shagunsharma21/workout-tracker?outputonly=1&lite=true
-# googlesheet link -->https://docs.google.com/spreadsheets/d/1Zxw6WoZ2uMOgZoT_P5V2nYQzcxdCBuSZaBxneJXVR9w/edit#gid=0
+# replit -> https://replit.com/@shagunsharma21/workout-tracker?outputonly=1&lite=true
+# googlesheet link ->https://docs.google.com/spreadsheets/d/1Zxw6WoZ2uMOgZoT_P5V2nYQzcxdCBuSZaBxneJXVR9w/edit#gid=0
 GENDER = "male"
 WEIGHT_KG = "69"
 HEIGHT_CM = "184"
